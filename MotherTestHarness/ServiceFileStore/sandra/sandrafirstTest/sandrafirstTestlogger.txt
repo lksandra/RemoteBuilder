@@ -1,0 +1,115 @@
+
+ Executing library: ../../../MotherTestHarness/serviceFileStore/sandra/sandrafirstTest/../../../MotherTestHarness/serviceFileStore/sandra/sandrafirstTest\firstTest.DLL
+=====================================================================
+Type with ITest interface found
+methodName test found and being invoked
+
+  TestedOne here
+  TestedTwo here
+ test passed for the library.
+
+ Executing library:-
+ ../../../MotherTestHarness/serviceFileStore/sandra/sandrafirstTest/firstTest.DLL
+=====================================================================
+Type with ITest interface found
+methodName test found and being invoked
+
+  TestedOne here
+  TestedTwo here
+ test passed for the library.
+
+ Executing library:-
+ ../../../MotherTestHarness/serviceFileStore/sandra/sandrafirstTest/firstTest.DLL
+=====================================================================
+Type with ITest interface found
+methodName test found and being invoked
+
+  TestedOne here
+  TestedTwo here
+ test passed for the library.
+
+ Executing library:-
+ ../../../MotherTestHarness/serviceFileStore/sandra/sandrafirstTest/firstTest.DLL
+=====================================================================
+Type with ITest interface found
+methodName test found and being invoked
+
+  TestedOne here
+  TestedTwo here
+ test passed for the library.
+
+ Executing library:-
+ ../../../MotherTestHarness/serviceFileStore/sandra/sandrafirstTest/secondTest.DLL
+=====================================================================
+Type with ITest interface found
+methodName test found and being invoked
+
+  TestedOne here
+  TestedTwo here
+ test passed for the library.
+
+ 
+ Executing library:-
+ ../../../MotherTestHarness/serviceFileStore/sandra/sandrafirstTest/firstTest.DLL
+=====================================================================
+Type with ITest interface found
+methodName test found and being invoked
+
+  TestedOne here
+  TestedTwo here
+ test passed for the library.
+
+ 
+ Executing library:-
+ ../../../MotherTestHarness/serviceFileStore/sandra/sandrafirstTest/firstTest.DLL
+=====================================================================
+Type with ITest interface found
+methodName test found and being invoked
+
+  TestedOne here
+  TestedTwo here
+ test passed for the library.
+
+ 
+ Executing library:-
+ ../../../MotherTestHarness/serviceFileStore/sandra/sandrafirstTest/secondTest.DLL
+=====================================================================
+Type with ITest interface found
+methodName test found and being invoked
+
+  TestedOne here
+  TestedTwo here
+ test passed for the library.
+
+ 
+ Executing library:-
+ ../../../MotherTestHarness/serviceFileStore/sandra/sandrafirstTest/firstTest.DLL
+=====================================================================
+Type with ITest interface found
+methodName test found and being invoked
+
+  TestedOne here
+  TestedTwo here
+ test passed for the library.
+
+ 
+ Executing library:-
+ ../../../MotherTestHarness/serviceFileStore/sandra/sandrafirstTest/firstTest.DLL
+=====================================================================
+Type with ITest interface found
+methodName test found and being invoked
+
+  TestedOne here
+  TestedTwo here
+ test passed for the library.
+
+ 
+ Executing library:-
+ ../../../MotherTestHarness/serviceFileStore/sandra/sandrafirstTest/secondTest.DLL
+=====================================================================
+Type with ITest interface found
+methodName test found and being invoked
+
+  TestedOne here
+  TestedTwo here
+ test passed for the library.

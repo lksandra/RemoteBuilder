@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<buildRequest>
+  <author>komal</author>
+  <test>
+    <testName>firsttest</testName>
+    <testDriver>TestDriver.cs</testDriver>
+    <testedFile>TestedOne.cs</testedFile>
+    <testedFile>TestedTwo.cs</testedFile>
+  </test>
+</buildRequest>

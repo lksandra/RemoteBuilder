@@ -1,0 +1,2 @@
+TestedOne1.cs(9,16): error CS0101: The namespace 'TestBuild' already contains a definition for 'TestedOne'
+TestedOne1.cs(11,17): error CS0111: Type 'TestedOne' already defines a member called 'sayOne' with the same parameter types

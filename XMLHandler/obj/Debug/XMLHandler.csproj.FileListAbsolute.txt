@@ -1,0 +1,13 @@
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\XMLHandler\bin\Debug\XMLHandler.exe.config
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\XMLHandler\bin\Debug\XMLHandler.exe
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\XMLHandler\bin\Debug\XMLHandler.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\XMLHandler\obj\Debug\XMLHandler.csproj.CoreCompileInputs.cache
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\XMLHandler\obj\Debug\XMLHandler.exe
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\XMLHandler\obj\Debug\XMLHandler.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\XMLHandler\bin\Debug\XMLHandler.exe.config
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\XMLHandler\bin\Debug\XMLHandler.exe
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\XMLHandler\bin\Debug\XMLHandler.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\XMLHandler\obj\Debug\XMLHandler.csprojResolveAssemblyReference.cache
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\XMLHandler\obj\Debug\XMLHandler.csproj.CoreCompileInputs.cache
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\XMLHandler\obj\Debug\XMLHandler.exe
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\XMLHandler\obj\Debug\XMLHandler.pdb

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<testRequest>
+  <author>sandra</author>
+  <testNameDll>firstTest.dll</testNameDll>
+  <testNameDll>secondTest.dll</testNameDll>
+</testRequest>

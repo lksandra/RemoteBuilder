@@ -1,0 +1,27 @@
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\bin\Debug\IService.dll.config
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\bin\Debug\IService.dll
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\bin\Debug\IService.pdb
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\obj\Debug\IService.dll
+C:\su\CSE681\code\Project3HelpF2017\PluggableComm\IService\obj\Debug\IService.pdb
+C:\Users\RAJESH\Documents\From 21 jan 2017\2017 fall sem\SMA\Lectures\L13\MessagePassingComm\IService\bin\Debug\IService.dll.config
+C:\Users\RAJESH\Documents\From 21 jan 2017\2017 fall sem\SMA\Lectures\L13\MessagePassingComm\IService\bin\Debug\IService.dll
+C:\Users\RAJESH\Documents\From 21 jan 2017\2017 fall sem\SMA\Lectures\L13\MessagePassingComm\IService\bin\Debug\IService.pdb
+C:\Users\RAJESH\Documents\From 21 jan 2017\2017 fall sem\SMA\Lectures\L13\MessagePassingComm\IService\obj\Debug\IMessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Users\RAJESH\Documents\From 21 jan 2017\2017 fall sem\SMA\Lectures\L13\MessagePassingComm\IService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\RAJESH\Documents\From 21 jan 2017\2017 fall sem\SMA\Lectures\L13\MessagePassingComm\IService\obj\Debug\IService.dll
+C:\Users\RAJESH\Documents\From 21 jan 2017\2017 fall sem\SMA\Lectures\L13\MessagePassingComm\IService\obj\Debug\IService.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MessagePassingComm\IService\bin\Debug\IService.dll.config
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MessagePassingComm\IService\bin\Debug\IService.dll
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MessagePassingComm\IService\bin\Debug\IService.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MessagePassingComm\IService\obj\Debug\IMessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MessagePassingComm\IService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MessagePassingComm\IService\obj\Debug\IService.dll
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MessagePassingComm\IService\obj\Debug\IService.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MessagePassingComm\IService\bin\Debug\IService.dll.config
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MessagePassingComm\IService\bin\Debug\IService.dll
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MessagePassingComm\IService\bin\Debug\IService.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MessagePassingComm\IService\obj\Debug\IMessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MessagePassingComm\IService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MessagePassingComm\IService\obj\Debug\IService.dll
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MessagePassingComm\IService\obj\Debug\IService.pdb

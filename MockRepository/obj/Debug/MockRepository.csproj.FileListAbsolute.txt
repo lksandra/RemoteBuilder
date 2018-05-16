@@ -1,0 +1,51 @@
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MockRepository\bin\Debug\MockRepository.exe.config
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MockRepository\bin\Debug\MockRepository.exe
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MockRepository\bin\Debug\MockRepository.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MockRepository\bin\Debug\extensionMethods.exe
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MockRepository\bin\Debug\fileHandler.exe
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MockRepository\bin\Debug\IService.dll
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MockRepository\bin\Debug\PluggableCommService.exe
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MockRepository\bin\Debug\XMLHandler.exe
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MockRepository\bin\Debug\TestUtilities.exe
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MockRepository\bin\Debug\extensionMethods.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MockRepository\bin\Debug\extensionMethods.exe.config
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MockRepository\bin\Debug\fileHandler.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MockRepository\bin\Debug\fileHandler.exe.config
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MockRepository\bin\Debug\IService.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MockRepository\bin\Debug\IService.dll.config
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MockRepository\bin\Debug\PluggableCommService.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MockRepository\bin\Debug\PluggableCommService.exe.config
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MockRepository\bin\Debug\XMLHandler.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MockRepository\bin\Debug\XMLHandler.exe.config
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MockRepository\bin\Debug\TestUtilities.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MockRepository\bin\Debug\TestUtilities.exe.config
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MockRepository\obj\Debug\MockRepository.csprojResolveAssemblyReference.cache
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MockRepository\obj\Debug\MockRepository.csproj.CoreCompileInputs.cache
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MockRepository\obj\Debug\MockRepository.exe
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MockRepository\obj\Debug\MockRepository.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MockRepository\bin\Debug\MockRepository.exe.config
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MockRepository\bin\Debug\MockRepository.exe
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MockRepository\bin\Debug\MockRepository.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MockRepository\bin\Debug\extensionMethods.exe
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MockRepository\bin\Debug\fileHandler.exe
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MockRepository\bin\Debug\IService.dll
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MockRepository\bin\Debug\PluggableCommService.exe
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MockRepository\bin\Debug\XMLHandler.exe
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MockRepository\bin\Debug\TestUtilities.exe
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MockRepository\bin\Debug\extensionMethods.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MockRepository\bin\Debug\extensionMethods.exe.config
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MockRepository\bin\Debug\fileHandler.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MockRepository\bin\Debug\fileHandler.exe.config
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MockRepository\bin\Debug\IService.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MockRepository\bin\Debug\IService.dll.config
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MockRepository\bin\Debug\PluggableCommService.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MockRepository\bin\Debug\PluggableCommService.exe.config
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MockRepository\bin\Debug\XMLHandler.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MockRepository\bin\Debug\XMLHandler.exe.config
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MockRepository\bin\Debug\TestUtilities.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MockRepository\bin\Debug\TestUtilities.exe.config
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MockRepository\obj\Debug\MockRepository.csprojResolveAssemblyReference.cache
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MockRepository\obj\Debug\MockRepository.csproj.CoreCompileInputs.cache
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MockRepository\obj\Debug\MockRepository.exe
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\MockRepository\obj\Debug\MockRepository.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\MockRepository\obj\Debug\MockRepository.csproj.CopyComplete

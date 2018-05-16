@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<buildRequest>
+  <author>sandra</author>
+  <test>
+    <testName>firstTest</testName>
+    <testDriver>testDriver1.cs</testDriver>
+    <testedFile>testedFile1.cs</testedFile>
+    <testedFile>testedFile2.cs</testedFile>
+  </test>
+  <test>
+    <testName>secondTest</testName>
+    <testDriver>testDriver2.cs</testDriver>
+    <testedFile>testedFile2.cs</testedFile>
+    <testedFile>testedFile3.cs</testedFile>
+  </test>
+</buildRequest>

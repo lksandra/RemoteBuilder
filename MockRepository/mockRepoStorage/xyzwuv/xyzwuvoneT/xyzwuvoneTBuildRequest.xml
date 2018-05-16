@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<buildRequest>
+  <author>xyzwuv</author>
+  <test>
+    <testName>oneT</testName>
+    <testDriver>TestDriver.cs</testDriver>
+    <testedFile>TestDriver.cs</testedFile>
+    <testedFile>TestedOne.cs</testedFile>
+  </test>
+  <test>
+    <testName>towT</testName>
+    <testDriver>TestDriver.cs</testDriver>
+    <testedFile>TestedOne.cs</testedFile>
+    <testedFile>TestedOne1.cs</testedFile>
+    <testedFile>TestedOne2.cs</testedFile>
+  </test>
+</buildRequest>

@@ -1,0 +1,33 @@
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\remoteBuilderProtoype\bin\Debug\remoteBuilderProtoype.exe.config
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\remoteBuilderProtoype\bin\Debug\remoteBuilderProtoype.exe
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\remoteBuilderProtoype\bin\Debug\remoteBuilderProtoype.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\remoteBuilderProtoype\bin\Debug\IService.dll
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\remoteBuilderProtoype\bin\Debug\PluggableCommService.exe
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\remoteBuilderProtoype\bin\Debug\TestUtilities.exe
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\remoteBuilderProtoype\bin\Debug\IService.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\remoteBuilderProtoype\bin\Debug\IService.dll.config
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\remoteBuilderProtoype\bin\Debug\PluggableCommService.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\remoteBuilderProtoype\bin\Debug\PluggableCommService.exe.config
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\remoteBuilderProtoype\bin\Debug\TestUtilities.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\remoteBuilderProtoype\bin\Debug\TestUtilities.exe.config
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\remoteBuilderProtoype\obj\Debug\MotherBuilder.csprojResolveAssemblyReference.cache
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\remoteBuilderProtoype\obj\Debug\MotherBuilder.csproj.CoreCompileInputs.cache
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\remoteBuilderProtoype\obj\Debug\remoteBuilderProtoype.exe
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\remoteBuilderProtoype\obj\Debug\remoteBuilderProtoype.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\remoteBuilderProtoype\bin\Debug\remoteBuilderProtoype.exe.config
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\remoteBuilderProtoype\bin\Debug\remoteBuilderProtoype.exe
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\remoteBuilderProtoype\bin\Debug\remoteBuilderProtoype.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\remoteBuilderProtoype\bin\Debug\IService.dll
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\remoteBuilderProtoype\bin\Debug\PluggableCommService.exe
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\remoteBuilderProtoype\bin\Debug\TestUtilities.exe
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\remoteBuilderProtoype\bin\Debug\IService.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\remoteBuilderProtoype\bin\Debug\IService.dll.config
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\remoteBuilderProtoype\bin\Debug\PluggableCommService.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\remoteBuilderProtoype\bin\Debug\PluggableCommService.exe.config
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\remoteBuilderProtoype\bin\Debug\TestUtilities.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\remoteBuilderProtoype\bin\Debug\TestUtilities.exe.config
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\remoteBuilderProtoype\obj\Debug\MotherBuilder.csprojResolveAssemblyReference.cache
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\remoteBuilderProtoype\obj\Debug\MotherBuilder.csproj.CoreCompileInputs.cache
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\remoteBuilderProtoype\obj\Debug\remoteBuilderProtoype.exe
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoType submission version\remoteBuilderProtoype\remoteBuilderProtoype\obj\Debug\remoteBuilderProtoype.pdb
+C:\Users\RAJESH\Documents\Visual Studio 2017\Projects\SMAprojects\remoteBuilderProtoype\remoteBuilderProtoype\obj\Debug\MotherBuilder.csproj.CopyComplete

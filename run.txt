@@ -1,0 +1,4 @@
+
+remoteBuilderProtoype/bin/Debug/remoteBuilderProtoype.exe
+MockRepository/bin/Debug/MockRepository.exe
+Client/bin/Debug/Client.exe

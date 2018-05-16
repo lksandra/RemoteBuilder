@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<buildRequest>
+  <author>ranga</author>
+  <test>
+    <testName>fortyT</testName>
+    <testDriver>TestDriver.cs</testDriver>
+    <testedFile>TestedOne.cs</testedFile>
+    <testedFile>TestedTwo.cs</testedFile>
+  </test>
+  <test>
+    <testName>eightyT</testName>
+    <testDriver>TestDriver2.cs</testDriver>
+    <testedFile>TestedOne2.cs</testedFile>
+    <testedFile>TestedTwo2.cs</testedFile>
+  </test>
+  <test>
+    <testName>hundredTwentyT</testName>
+    <testDriver>TestedOne.cs</testDriver>
+    <testedFile>TestedTwo2.cs</testedFile>
+    <testedFile>TestDriver2.cs</testedFile>
+  </test>
+</buildRequest>
